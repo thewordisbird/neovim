@@ -1,0 +1,2 @@
+require("TheWordIsBird")
+print("hello")
