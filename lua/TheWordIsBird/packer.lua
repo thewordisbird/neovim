@@ -21,6 +21,7 @@ use({
     end
 })
 
+use('jose-elias-alvarez/null-ls.nvim')
 use ( 'nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
 use ( 'nvim-treesitter/playground')
 
