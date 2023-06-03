@@ -1,2 +1,1 @@
 require("TheWordIsBird")
-print("hello")
