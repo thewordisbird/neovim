@@ -104,6 +104,11 @@ _G.packer_plugins = {
     path = "/Users/mbp-2018-01/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
     url = "https://github.com/saadparwaiz1/cmp_luasnip"
   },
+  conjure = {
+    loaded = true,
+    path = "/Users/mbp-2018-01/.local/share/nvim/site/pack/packer/start/conjure",
+    url = "https://github.com/Olical/conjure"
+  },
   ["friendly-snippets"] = {
     loaded = true,
     path = "/Users/mbp-2018-01/.local/share/nvim/site/pack/packer/start/friendly-snippets",
@@ -179,6 +184,16 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/mbp-2018-01/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
+  },
+  undotree = {
+    loaded = true,
+    path = "/Users/mbp-2018-01/.local/share/nvim/site/pack/packer/start/undotree",
+    url = "https://github.com/mbbill/undotree"
+  },
+  ["vim-fugitive"] = {
+    loaded = true,
+    path = "/Users/mbp-2018-01/.local/share/nvim/site/pack/packer/start/vim-fugitive",
+    url = "https://github.com/tpope/vim-fugitive"
   }
 }
 
