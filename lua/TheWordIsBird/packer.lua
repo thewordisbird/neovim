@@ -52,4 +52,9 @@ use {
   }
 }
 
+use ('mbbill/undotree')
+use ('tpope/vim-fugitive')
+
+use ('Olical/conjure')
+
   end)
